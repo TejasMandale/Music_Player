@@ -18,12 +18,10 @@ The Python Music Player is a versatile and user-friendly application designed fo
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/python-music-player.git`
+1. Clone the repository: `git clone https://github.com/TejasMandale/Music_Player.git`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the application: `python main.py`
+3. Run the application: `python Music Player.py`
 
 Feel free to contribute and make the Python Music Player even better!
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
